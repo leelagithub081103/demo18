@@ -1,2 +1,2 @@
 ### Demo project 
-This is a demo repo reated in class for demonstrating git & github
+This is a demo repo created in class for demonstrating git & github
